@@ -17,6 +17,7 @@
     "@react-navigation/native": "^6.0.6",
     "@types/shortid": "^0.0.29",
     "expo": "~43.0.2",
+    "expo-cli": "^5.0.3",
     "expo-linking": "^2.4.2",
     "expo-status-bar": "~1.1.0",
     "moti": "^0.16.1",
