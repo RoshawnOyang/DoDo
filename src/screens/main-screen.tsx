@@ -10,22 +10,12 @@ import NavBar from '../components/navbar'
 const initialData = [
     {
         id: shortid.generate(),
-        subject: '課題3の制作',
-        done: false
-    },
-    {
-        id: shortid.generate(),
-        subject: 'テストの内容を復習',
+        subject: 'テスの内容を復習',
         done: false
     },
     {
         id: shortid.generate(),
         subject: 'GitHubのリポジトリにプッシュ',
-        done: false
-    },
-    {
-        id: shortid.generate(),
-        subject: 'ブレゼンの練習',
         done: false
     },
     {
